@@ -1,5 +1,24 @@
-# 💫 About Me:
-I'm currently working on building ML models with Python, PyTorch, FastAPI, and deploying them on AWS, using Matplotlib for visualizations<br>I'm looking to collaborate on ML-algorithm projects in Python with PyTorch, FastAPI services, and AWS infrastructure, involving Matplotlib charts.<br>I'm looking for help with optimizing my PyTorch models in Python that run on FastAPI and AWS, and improving Matplotlib plots.<br>I'm currently learning advanced ML algorithms with PyTorch in Python, integrating them with FastAPI and AWS services, plus enhancing Matplotlib visualizations.<br>Ask me about my experience with PyTorch, Python, FastAPI, AWS deployments, and Matplotlib data visualization.<br>Fun fact I can implement ML algorithms with PyTorch in Python, serve them via FastAPI on AWS, and make slick charts with Matplotlib
+# 💫 About Me
+
+Hi, I'm a passionate **Data Science enthusiast** who enjoys turning data into meaningful insights and building intelligent solutions.
+
+🔹 Interested in **Machine Learning, Data Analysis, and AI**  
+🔹 Skilled in **Python, Pandas, NumPy, and Data Visualization**  
+🔹 Exploring **Deep Learning and Predictive Modeling**  
+🔹 Always learning and experimenting with real-world datasets  
+
+📊 I love working on projects that involve:
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Machine Learning models
+- Data visualization and storytelling
+
+🚀 Currently improving my skills in:
+- Machine Learning algorithms
+- SQL and data engineering
+- Advanced data visualization
+
+📫 Feel free to connect or collaborate on data science projects!
 
 
 ## 🌐 Socials:
