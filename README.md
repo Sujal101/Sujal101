@@ -1,22 +1,24 @@
 # 💫 About Me
 
 Hi, I'm a passionate **Data Science enthusiast** who enjoys turning data into meaningful insights and building intelligent solutions.
-
-🔹 Interested in **Machine Learning, Data Analysis, and AI**  
-🔹 Skilled in **Python, Pandas, NumPy, and Data Visualization**  
-🔹 Exploring **Deep Learning and Predictive Modeling**  
+  
+🔹 Working with Transformers and Hugging Face for NLP tasks
+🔹 Interested in **Machine Learning, Data Analysis 
+🔹 Skilled in **Python, Pandas, NumPy, and Data Visualization****  
 🔹 Always learning and experimenting with real-world datasets  
 
 📊 I love working on projects that involve:
 - Data cleaning and preprocessing
-- Exploratory Data Analysis (EDA)
 - Machine Learning models
 - Data visualization and storytelling
+- Machine Learning and NLP models
+-  Transformers (BERT, DistilBERT)
 
 🚀 Currently improving my skills in:
 - Machine Learning algorithms
-- SQL and data engineering
+- SQL and Nlp
 - Advanced data visualization
+- Hugging Face Transformers
 
 📫 Feel free to connect or collaborate on data science projects!
 
