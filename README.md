@@ -3,9 +3,9 @@
 Hi, I'm a passionate **Data Science enthusiast** who enjoys turning data into meaningful insights and building intelligent solutions.
   
 🔹 Working with Transformers and Hugging Face for NLP tasks
-🔹 Interested in **Machine Learning, Data Analysis 
-🔹 Skilled in **Python, Pandas, NumPy, and Data Visualization****  
-🔹 Always learning and experimenting with real-world datasets  
+, Interested in **Machine Learning, Data Analysis 
+, Skilled in **Python, Pandas, NumPy, and Data Visualization****  
+,Always learning and experimenting with real-world datasets  
 
 📊 I love working on projects that involve:
 - Data cleaning and preprocessing
